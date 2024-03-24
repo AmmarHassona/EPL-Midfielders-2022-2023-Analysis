@@ -9,5 +9,6 @@ Based on my data analysis for the 2022-2023 season, I concluded the following pl
 - Michael Olise
 - Trent Alexander-Arnold
 - James Maddison
+  
 This list is not listed in order as each player performed better in certain situations based on their position, role in the team, the overall strength of their team, the quality of their teammates and much more.
   
