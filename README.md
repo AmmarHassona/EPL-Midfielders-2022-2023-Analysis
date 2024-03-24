@@ -5,7 +5,7 @@ The dataset I chose was based on my passion towards football. In addition, choos
 Here is the link to the dataset on Kaggle:
 https://www.kaggle.com/datasets/mechatronixs/english-premier-league-22-23-season-stats
 
-Based on my data analysis for the 2022-2023 season, I concluded the following players as the top-performing midfielders in the league based on their performances and their impact on their teams:
+Based on the data for the 2022-2023 season, I concluded the following players as the top-performing midfielders in the league based on their performances and their impact on their teams:
 - Kevin De Bruyne
 - Bukayo Saka
 - Michael Olise
